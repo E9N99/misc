@@ -1,5 +1,5 @@
 import random
-from typing import Dict, List, Union, get_audio_bitrate
+from typing import Dict, List, Union,
 
 from AnonXMusic import userbot
 from AnonXMusic.core.mongo import mongodb
