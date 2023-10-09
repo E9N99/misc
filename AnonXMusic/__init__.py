@@ -10,7 +10,7 @@ dirr()
 git()
 dbb()
 heroku()
-
+get_audio_bitrate()
 app = Anony()
 userbot = Userbot()
 
