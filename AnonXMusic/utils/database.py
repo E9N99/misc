@@ -1,9 +1,8 @@
 import random
-from typing import Dict, List, Union
+from typing import Dict, List, Union, get_audio_bitrate
 
 from AnonXMusic import userbot
 from AnonXMusic.core.mongo import mongodb
-from AnonXMusic.utils.database import get_audio_bitrate
 
 authdb = mongodb.adminauth
 authuserdb = mongodb.authuser
