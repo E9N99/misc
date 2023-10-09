@@ -3,7 +3,7 @@ from typing import Dict, List, Union,
 
 from AnonXMusic import userbot
 from AnonXMusic.core.mongo import mongodb
-Get_audio_bitrate
+
 authdb = mongodb.adminauth
 authuserdb = mongodb.authuser
 autoenddb = mongodb.autoend
