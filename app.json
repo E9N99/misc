@@ -14,12 +14,12 @@
     "env": {
       "API_ID": {
         "description": "ال ايه بي اي ايدي استخرجه من هنا  https://my.telegram.org",
-        "value": "",
+        "value": "8897410",
         "required": true
       },
       "API_HASH": {
         "description": "الايبي هاش",
-        "value": "",
+        "value": "43cb89a7b70782868b77ace21c1341a9",
         "required": true
       },
       "BOT_TOKEN": {
@@ -29,12 +29,12 @@
       },
       "MONGO_DB_URI": {
         "description": "قاعدة مونجو دبي.",
-        "value": "",
+        "value": "mongodb+srv://SEMO1:SEMO1@cluster0.rusaedi.mongodb.net/?retryWrites=true&w=majority",
         "required": true
       },
       "OWNER_ID": {
         "description": "ايدي المطور.",
-        "value": "",
+        "value": "1488114134",
         "required": true
       },
       "STRING_SESSION": {
